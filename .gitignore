@@ -1,0 +1,153 @@
+# =========================
+
+# PYTHON
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.pyo
+
+# Virtual environments
+
+venv/
+env/
+ENV/
+.venv/
+virtualenv/
+
+# pip
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+# =========================
+
+# JUPYTER NOTEBOOK
+
+# =========================
+
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# =========================
+
+# DATASETS (VERY IMPORTANT)
+
+# =========================
+
+data/
+dataset/
+datasets/
+images/
+train/
+test/
+validation/
+val/
+
+# image files
+
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.gif
+
+# CSV & large files
+
+*.csv
+*.tsv
+*.zip
+*.rar
+*.7z
+
+# =========================
+
+# MODEL FILES
+
+# =========================
+
+*.h5
+*.hdf5
+*.keras
+*.model
+*.pb
+*.ckpt
+*.pt
+*.pth
+*.weights
+checkpoints/
+models/
+saved_model/
+
+# =========================
+
+# TRAINING OUTPUTS
+
+# =========================
+
+logs/
+runs/
+tensorboard/
+events.out.tfevents.*
+
+# plots
+
+*.png
+*.svg
+*.pdf
+
+# =========================
+
+# NUMPY / CACHE
+
+# =========================
+
+*.npy
+*.npz
+.cache/
+.cache-loader/
+.pytest_cache/
+
+# =========================
+
+# IDE FILES
+
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+
+# OS FILES
+
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+
+# ENVIRONMENT VARIABLES
+
+# =========================
+
+.env
+.env.*
+secrets.json
+
+# =========================
+
+# LOG FILES
+
+# =========================
+
+*.log
