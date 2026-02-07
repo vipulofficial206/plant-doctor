@@ -93,7 +93,21 @@ python plantchatbot.py
 
 Upload a plant leaf image and the system will classify the disease and provide treatment advice.
 
----
+---## 🌐 Web Interface (Frontend Application)
+
+A web-based user interface is also available for this project.
+The frontend allows users to upload plant leaf images and interact with the AI model through a browser.
+
+👉 Frontend Repository:
+[https://github.com/vipulofficial206/plant-doctor-frontend](https://github.com/vipulofficial206/plant-doctor-frontend)
+
+The frontend:
+
+* Sends the uploaded image to the backend API
+* Receives the disease prediction
+* Displays diagnosis and treatment recommendations in a user-friendly interface
+
+This makes the project a complete AI application (Machine Learning backend + Web frontend).
 
 ## 📊 Output
 
